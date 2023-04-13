@@ -59,8 +59,4 @@ sysinfo.txt
 crashlytics-build.properties
 
 *.DS_Store
-
-/[Pp]ackages/
-/[Pp]rojectSettings/ProjectVersion.txt
-/[Uu]serSettings/Layouts/default-2021.dwlt
 *.meta
